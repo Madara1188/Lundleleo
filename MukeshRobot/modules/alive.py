@@ -14,7 +14,7 @@ PHOTO = [
     "https://telegra.ph/file/62a60b8acb022a89d7b84.jpg",
     "https://telegra.ph/file/29cbab7caf25e02ecaf38.jpg",
     "https://telegra.ph/file/f31831243b3afa271dcea.jpg",
-    "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg",
+    "https://telegra.ph/file/bbb51295a98ef4644477a.jpg",
 ]
 
 Mukesh = [

@@ -1,4 +1,4 @@
-<h1 align="center">𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓</h1>
+<h1 align="center">𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑𝐎𝐁𝐎𝐓</h1>
 <p align="center">
   <img
  <p a<lign="center">

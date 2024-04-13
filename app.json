@@ -1,5 +1,5 @@
 {
-    "name": "Stranger Robot",
+    "name": "Shikimori-san bot",
     "description": "Telegram Group Management Bot.",
     "logo": "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
        "group",
        "manager"
     ],   
- "repository": "https://github.com/itzshukla/STRANGER-ROBOT",
+ "repository": "https://github.com/madara1188/STRANGER-ROBOT",
  "stack": "heroku-22",
  "addons": [
     {
